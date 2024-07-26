@@ -68,6 +68,7 @@ function Sidebar() {
           <Divider
             sx={{
               mt: theme.spacing(3),
+              mb: theme.spacing(2),
               mx: theme.spacing(2),
               background: theme.colors.alpha.trueWhite[10]
             }}
